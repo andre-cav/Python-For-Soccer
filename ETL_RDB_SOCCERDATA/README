@@ -1,3 +1,3 @@
-My project objective is to build a ETL for a relational database in SQLite with soccer data. 
+My project objective is to build an ETL for a relational database in SQLite with soccer data. 
 You can check the structer I designed in 'RDB_structer.png'
 This will help me and other people to make fast analysis.
